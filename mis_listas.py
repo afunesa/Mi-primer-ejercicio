@@ -1,5 +1,5 @@
 #listas
-#todo son objetos y metodos
+#orden y mutable
 
 mi_primera_lista=['platanos', 'manzanas', 'fresas']
 print(mi_primera_lista)
